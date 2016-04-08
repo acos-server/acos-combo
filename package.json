@@ -1,0 +1,14 @@
+{
+  "name": "acos-combo",
+  "version": "0.1.0",
+  "description": "Acos content type that combines Jsvee and Jsparsons",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Teemu Sirkiä",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acos-server/acos-combo.git"
+  }
+}
